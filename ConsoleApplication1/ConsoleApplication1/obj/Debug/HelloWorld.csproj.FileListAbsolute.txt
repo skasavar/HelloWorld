@@ -1,0 +1,6 @@
+C:\Git\HelloWorld\ConsoleApplication1\ConsoleApplication1\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Git\HelloWorld\ConsoleApplication1\ConsoleApplication1\bin\Debug\HelloWorld.exe.config
+C:\Git\HelloWorld\ConsoleApplication1\ConsoleApplication1\bin\Debug\HelloWorld.exe
+C:\Git\HelloWorld\ConsoleApplication1\ConsoleApplication1\bin\Debug\HelloWorld.pdb
+C:\Git\HelloWorld\ConsoleApplication1\ConsoleApplication1\obj\Debug\HelloWorld.exe
+C:\Git\HelloWorld\ConsoleApplication1\ConsoleApplication1\obj\Debug\HelloWorld.pdb
